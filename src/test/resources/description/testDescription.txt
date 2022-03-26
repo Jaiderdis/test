@@ -1,0 +1,5 @@
+El primer test verifica si la hora ingresada es una hora verdadera y si esta entre 0 y 6 y verificar que sea Night
+El segundo test verifica si la hora ingresada es una hora verdadera y si esta entre 12 y 6 y verificar que sea Morning
+El tercer test verifica si la hora ingresada es una hora verdadera y si esta entre 12 y 18 y verificar que sea Afternoon
+El cuarto test verifica si la hora ingresada es una hora verdadera y si esta entre 18 y 24 y verificar que sea Evening
+El quinto test verifica si la hora ingresada es una hora erronea y verificar que sea Invalid hour
