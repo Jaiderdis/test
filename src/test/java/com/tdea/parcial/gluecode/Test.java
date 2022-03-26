@@ -19,20 +19,5 @@ public class Test {
 
     }
 
-    @Given("testGiven")
-    public void test_given() {
-        setUp();
-    }
 
-    @When("testWhen")
-    public void test_when() {
-        // Write code here that turns the phrase above into concrete actions
-        throw new io.cucumber.java.PendingException();
-    }
-
-    @Then("testThen")
-    public void test_then() {
-        // Write code here that turns the phrase above into concrete actions
-        throw new io.cucumber.java.PendingException();
-    }
 }
