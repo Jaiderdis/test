@@ -31,6 +31,7 @@ public class TestRunner {
         tiempo=getTimeOfDay(int1);
 
     }
+
     @When("se verifica la validez")
     public void se_verifica_la_validez() {
         validez=isValidHour(hora);

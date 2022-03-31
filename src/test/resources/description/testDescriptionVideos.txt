@@ -1,0 +1,7 @@
+El primer test llamado seDeberiaAñadir1ElementoYborrarlo de la pagina https://the-internet.herokuapp.com/add_remove_elements/
+lo que hace es encontrar el elemento bottom y hacer click para añadir un boton, despues se encuentra ese boton añadido y
+se le da click para borrarlo
+
+
+EL segundo test llamado deberiaDescargarsomefile de la pagina https://the-internet.herokuapp.com/download
+lo que hace es encontrar el elemneto enlace de la imagen a descargar y darle click para descargarlo.
